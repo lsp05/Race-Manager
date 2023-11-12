@@ -1,7 +1,4 @@
-# 5K Race Qualifiers
-# Lincoln Spencer
-# COP 2500
-# 11/5/2023
+
 
 # Defining the check qualifers function and passing 3 lists through the parameters
 def check_qualifiers(racerA, racerB, qualifiers):
